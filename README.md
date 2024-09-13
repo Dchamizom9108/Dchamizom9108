@@ -1,10 +1,10 @@
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Daniel un entusiasta del desarrollo web y actualmente estoy trabajando en una página web de reparación electrónica y servicios. Aquí encontrarás información sobre las tecnologías que domino y en las que me encuentro aprendiendo. ¡Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme!
+¡Hola! Soy Daniel un entusiasta del desarrollo web y actualmente estoy trabajando en una página web de reparación electrónica y servicios. ¡Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme!
 
 ## Sobre mí
 - 🔭 Actualmente trabajo en ... Página web de reparación electrónica + servicios.
-- 🌱 Actualmente estoy aprendiendo ... React, Node.js, Vite, Tailwind.
+- 🌱 Actualmente estoy aprendiendo ... TypeScript, Vite.
 - 👯 Busco colaborar en ... Cualquier idea o proyecto.
 - 🤔 Necesito ayuda con ... Creación de API.
 - 💬 Pregúntame sobre ... Puppeteer, tabulator.js.
